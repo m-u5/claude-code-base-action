@@ -87,6 +87,7 @@ jobs:
              - If no labels are clearly applicable, do not apply any labels
 
           IMPORTANT GUIDELINES:
+          - Please write on issues in Japanese.
           - Be thorough in your analysis
           - Only select labels from the provided list above
           - DO NOT post any comments to the issue
